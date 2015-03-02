@@ -15,11 +15,13 @@
 }
 </script>
 <a href="http://pods.io/wp-content/blogs.dir/2224/files/2013/12/fancy-menu.png"><img class="alignright size-medium wp-image-180236" src="http://pods.io/wp-content/blogs.dir/2224/files/2013/12/fancy-menu-138x300.png" alt="fancy-menu" width="138" height="300" /></a>
+
 The WordPress back-end saw a major overhaul in WordPress 3.8 that gave a much needed, modern makeover to the admin interface. One of the key components of the new re-design is the inclusion of the Dashicons font created by Automattic UI designer, <a href="http://choycedesign.com/" target="_blank">Mel Choyce.</a> As a result, in addition to using an image file of your own, you can use any of the icons in the Dashicon font as the menu icon for your Pod. By setting the name of the icon in the "Menu Icon" field under the "Admin UI" tab in the pods editor.
 
 In this tutorial I will walk you through choosing an icon, getting its name and setting it as the menu icon. I will also be showing you how to use a image file as the icon. <strong>Note:</strong> Before Pods 3.0 the "Menu Icon" field was called "Menu Icon URL."
 <h3>Using A Dashicon</h3>
 <a href="http://pods.io/wp-content/blogs.dir/2224/files/2013/12/video-choice.png"><img class="alignleft size-medium wp-image-180237" src="http://pods.io/wp-content/blogs.dir/2224/files/2013/12/video-choice-300x151.png" alt="video-choice" width="300" height="151" /></a>
+
 The first step is to choose an icon and get its name. Go to see all of the icons, go to <a href="http://melchoyce.github.io/dashicons/" target="_blank">the Dashicon page</a> and click on the icon you want. Once you've clicked on the icon, its proper name will be shown at the top of the page. In the screenshot on the left, I've selected the name of the video icon, which is "dashicons-format-video." Select and copy the name of the icon you chose.
 
 Once you've selected an icon, you will need to go to the Pods editor--accessible from Pods menu-&gt;Editor--for the content type you want to change the menu icon for. Once your there, go to the "Admin UI" tab. In that tab you will find the "Menu Icon" field. Paste in the name of the Dashicon that you selected. Once you've done that, save the Pod. Once it has saved, refresh the page and you will see the icon is now being used as the icon for your Pod in the menu.
